@@ -15,9 +15,7 @@ Max Woolf 님의 https://github.com/minimaxir/facebook-page-post-scraper/blob/ma
 
 >It needs
 
-	 ● python3에서 작동합니다.
-
-	 ● Chrome selenium을 다운받아야 합니다.
+	 ● python3에서 작동합니다
 	
 >How to
 
